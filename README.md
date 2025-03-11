@@ -1,4 +1,4 @@
-# Hi, I'm Martin Kovachki! 👋  
+Hi, I'm Martin Kovachki!
 
 - 🖥️ I've been coding since sixteen
 - 🏗️ Developed backend features for podkrepi.bg
