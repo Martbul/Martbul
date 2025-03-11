@@ -1,15 +1,10 @@
 # Hi, I'm Martin Kovachki! 👋  
 
-## 🖥 About Me  
-- 🔭 I’m currently working on **[Your Project/Job Title]**  
-- 🌱 I’m currently learning **[Tech, Language, or Skill]**  
-- 👯 I’m looking to collaborate on **[Open Source Projects, Startups, etc.]**  
-- 🤔 I’m looking for help with **[A Topic or Challenge]**  
-- 💬 Ask me about **[Your Expertise]**  
-- 📫 How to reach me: **[Your Email or Socials]**  
-- 😄 Pronouns: **[Your Pronouns]**  
-- ⚡ Fun fact: **[Something Interesting About You]**
-- 
+- 🖥️ I've been coding since sixteen
+- 🏗️ Developed backend features for podkrepi.bg
+- 🔧 Currently working on personal projects and expanding my knowedge  
+- 📖 I’m learning Odin and Zig at the moment 
+- 🎓 Graduated from SoftUni in 2023
 <!--
 ## 🚀 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
