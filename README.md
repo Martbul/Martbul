@@ -4,7 +4,7 @@
 - 🏗️ Developed a backend applications proccess for podkrepi.bg using TypeScript, NestJs and Prisma
 - 🔧 Currently working on personal projects and expanding my knowedge  
 - 📖 I’m learning Odin and Zig at the moment 
-- 🎓 Graduated from SoftUni in 2023
+- 🎓 Graduated from SoftUni in 2024
 <!--
 ## 🚀 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
