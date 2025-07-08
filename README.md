@@ -3,7 +3,7 @@
 - 🖥️ I've been coding since sixteen
 - 🏗️ Developed a backend applications proccess for podkrepi.bg using TypeScript, NestJs and Prisma
 - 🔧 Currently working on personal projects and expanding my knowedge  
-- 📖 I’m learning Odin and Zig at the moment 
+- 📖 I’m learning Rust and Zig at the moment 
 - 🎓 Graduated from SoftUni in 2024
 <!--
 ## 🚀 Tech Stack  
