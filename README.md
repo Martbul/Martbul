@@ -8,7 +8,7 @@
 
 > Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
 
-🍭 **[sweetistics.com](https://sweetistics.com/)** (closed source) – AI-powered Twitter platform with analytics/ops stack.
+**[OutDrinkMe](https://play.google.com/store/apps/details?id=com.martbul.outDrinkMe)** – Android App for sharing absurd memories, traking drinking and competing with friends
 
 ## Current Projects
 
@@ -25,10 +25,9 @@
 
 ## Connect
 
-[![Instagram](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/steipete)
-[![Discord](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/steipete)
-[![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/steipete)
-[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steipete)
+[![Instagram](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.instagram.com/mart.bul?igsh=NWZhZncyejdnY2U0)
+[![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/martbul01tyre)
+[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/steipete](https://bg.linkedin.com/in/martin-kovachki-45912029a))
 
 ---
 
