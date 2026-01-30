@@ -6,13 +6,13 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
+> Deep in Golang world – focusing on the low-level laguages & backend services
 
-**[OutDrinkMe](https://play.google.com/store/apps/details?id=com.martbul.outDrinkMe)** – Android App for sharing absurd memories, traking drinking and competing with friends
+**[OutDrinkMe](https://play.google.com/store/apps/details?id=com.martbul.outDrinkMe)** – Android app for sharing absurd memories, traking drinking and competing with friends
 
 ## Current Projects
 
- - **[Strct](https://github.com/clawdbot/clawdbot)** - Personal Cloud Device + Web Portal + Web Api
+ - **[Strct](https://github.com/orgs/strct-org/repositories)** - Personal Cloud Device + Web Portal + Web Api
 
 
 ## What I'm Doing
