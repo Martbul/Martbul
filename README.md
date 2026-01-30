@@ -25,9 +25,9 @@
 
 ## Connect
 
-[![Instagram](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.instagram.com/mart.bul?igsh=NWZhZncyejdnY2U0)
-[![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/martbul01tyre)
-[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/steipete](https://bg.linkedin.com/in/martin-kovachki-45912029a))
+[![Instagram](https://img.shields.io/badge/-@mart.bul-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.instagram.com/mart.bul?igsh=NWZhZncyejdnY2U0)
+[![Twitter](https://img.shields.io/badge/-@martbul-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/martbul01tyre)
+[![LinkedIn](https://img.shields.io/badge/-Martin Kovachki?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/steipete](https://bg.linkedin.com/in/martin-kovachki-45912029a))
 
 ---
 
